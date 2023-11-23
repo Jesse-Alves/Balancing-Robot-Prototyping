@@ -74,12 +74,12 @@
 This is a robotics and controller design project, where a balancing robot was prototyped.Once the physical and electronic structure of the robot was built, the robot was mathematically modeled using the white box method (using the balancing robot model present in the literature) and a discrete PID was designed, adjusted and simulated in a Matlab and Simulink environment.
 Finally, the controller was implemented on an Arduino board and tested experimentally, where an MPU6050 gyroscope was used as the main feedback sensor, and a common H-bridge driver with 2 DC motors was used for driving.
 
-The Arduino [Codes](#readme-top) are available in the repository as well as the final [Project Presentation](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/Balancing%20Robot%20Presentation.pdf)
+The Arduino [Codes](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/tree/main/ScriptBalancingRobot) are available in the repository as well as the final [Project Presentation](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/Balancing%20Robot%20Presentation.pdf)
 
 
 <p float="left">
-  <img src="images/img1.JPG" width="150" height="300" />
-  <img src="images/img2.jpg" width="500" height="300" />
+  <img src="images/img1.gif" width="150" height="300" />
+  <img src="images/img2.gif" width="500" height="300" />
 </p>
 
 
