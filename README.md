@@ -78,9 +78,9 @@ The Arduino [Codes](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/t
 
 
 <!-- ![](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/images/balancing_robot_gif.gif) -->
-
+<p float="center">
 <img width="250" height="400" src="images/balancing_robot_gif.gif" alt="color picker" />
-
+</p>
 
 ## The Prototype
 
