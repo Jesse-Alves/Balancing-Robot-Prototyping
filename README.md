@@ -77,15 +77,16 @@ Finally, the controller was implemented on an Arduino board and tested experimen
 The Arduino [Codes](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/tree/main/ScriptBalancingRobot) are available in the repository as well as the final [Project Presentation](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/Balancing%20Robot%20Presentation.pdf)
 
 
-![](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/images/balancing_robot_gif.gif)
+<!-- ![](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/images/balancing_robot_gif.gif) -->
 
+<img width="400" height="250" src="images/balancing_robot_gif.gif" alt="color picker" />
 
 
 ## The Prototype
 
 <p float="left">
-  <img src="images/img1.gif" width="150" height="300" />
-  <img src="images/img2.gif" width="500" height="300" />
+  <img src="images/img1.jpg" width="150" height="300" />
+  <img src="images/img2.jpg" width="150" height="300" />
 </p>
 
 
