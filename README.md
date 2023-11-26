@@ -78,12 +78,13 @@ The Arduino [Codes](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/t
 
 
 <!-- ![](https://github.com/Jesse-Alves/Balancing-Robot-Prototyping/blob/main/images/balancing_robot_gif.gif) -->
-<p float="left">
-  <img width="150" height="300" src="images/balancing_robot_gif.gif" alt="color picker" />
-  <img src="images/img1.jpg" width="200" height="300" />
-  <img src="images/img2.jpg" width="200" height="300" />
-</p>
-
+<div align="center">
+  <a href=" ">
+    <img width="200" height="300" src="images/balancing_robot_gif.gif" alt="color picker" />
+    <img src="images/img1.jpg" width="200" height="300" />
+    <img src="images/img2.jpg" width="200" height="300" />
+  </a>
+</div>
 
 <!--
 <div align="center">
